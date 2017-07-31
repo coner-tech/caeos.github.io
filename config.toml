@@ -1,4 +1,4 @@
-baseURL = "http://caeos.github.io/"
+baseURL = "http://www.coner.tech/"
 languageCode = "en-us"
 title = "Coner"
 theme = "docdock"
