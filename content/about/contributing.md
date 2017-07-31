@@ -1,7 +1,7 @@
 +++
 title= "Contributing"
 date= 2017-07-30T14:59:30-04:00
-description = "We could use some help!"
+description = "Want to help?"
 draft= false
 weight= 2
 +++

@@ -1,7 +1,7 @@
 +++
-title= "Functionality"
+title= "Features"
 date= 2017-07-30T16:17:46-04:00
-description = "List the functions of Coner"
+description = "What can I do with Coner?"
 draft= false
 weight = 1
 +++
