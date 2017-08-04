@@ -1,7 +1,7 @@
 +++
 title= "Features"
 date= 2017-07-30T16:17:46-04:00
-description = "What can I do with Coner?"
+description = "What can I do with it?"
 draft= false
 weight = 1
 +++

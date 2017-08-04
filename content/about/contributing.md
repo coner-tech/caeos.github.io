@@ -3,7 +3,7 @@ title= "Contributing"
 date= 2017-07-30T14:59:30-04:00
 description = "Want to help?"
 draft= false
-weight= 2
+weight= 3
 +++
 
 Coner is a free, open source software project built by people who want to use it. We would love to have your help!
