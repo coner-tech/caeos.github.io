@@ -1,16 +1,22 @@
 [
   {
+    "name": "Carlton Whitehead",
     "role": "Software Developer",
-    "people": [
-      "Carlton Whitehead",
-      "James Short",
-      "Austin Culbertson"
-    ]
+    "hasPhoto": false
   },
   {
+    "name": "James Short",
+    "role": "Software Developer",
+    "hasPhoto": false
+  },
+  {
+    "name": "Austin Culbertson",
+    "role": "Software Developer",
+    "hasPhoto": false
+  },
+  {
+    "name": "Ryan Peabody",
     "role": "Logo Design",
-    "people": [
-      "Ryan Peabody"
-    ]
+    "hasPhoto": true
   }
 ]
