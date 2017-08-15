@@ -1,8 +1,29 @@
 {{ partial "header.html" . }}
 
+{{ .Content }}
+
+<ol id="credits-list">
+
 {{ range $.Site.Data.about.credits}}
-  {{ partial "about/credits/role.html" . }}
+  <li>
+      {{ if .hasPhoto }}
+        {{ $photoUrl := add "/images/about/credits/" .name }}
+        {{ $photoUrl := add $photoUrl ".jpg" }}
+        {{ $.Scratch.Set "photoUrl" $photoUrl }}
+      {{ else }}
+        {{ $photoUrl := "/images/about/credits/no-image.png" }}
+        {{ $.Scratch.Set "photoUrl" $photoUrl }}
+      {{ end }}
+      <img
+              src="{{ $.Scratch.Get "photoUrl" | absURL }}"
+              title="{{ .name }}"
+              class="photo"
+              />
+      <span class="name">{{ .name }}</span><br />
+      <span class="role">{{ .role }}</span>
+  </li>
 {{ end }}
+</ol>
 
 <footer class=" footline" >
 	{{with .Params.LastModifierDisplayName}}
