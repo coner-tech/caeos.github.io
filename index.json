@@ -1,0 +1,71 @@
+[
+{
+	"uri": "https://caeos.github.io/features/",
+	"title": "Features",
+	"tags": [],
+	"description": "What can I do with it?",
+	"content": " Import and manage registrations Determine run groups and work assignments Capture runs Calculate results  Coner is in a pre-release development stage. This list is currently a description of goals more so than current capabilities.\n "
+},
+{
+	"uri": "https://caeos.github.io/design/",
+	"title": "Design",
+	"tags": [],
+	"description": "How does it work?",
+	"content": " Backend Coner Core Service encapsulates the core logic and data storage duties, exposing this functionality via a REST API.\nUI Operator UI Coner will supply an Operator UI where workers can perform their tasks on screens tailored to purpose.\nOther UIs Possibilities abound for other UIs to leverage the Core Service and present the data to users in awesome ways. Coner would like to supply these also, but these are a lower priority compared to the Operator UI.\n Instant Results Web/Mobile App Registration Kiosk Standings Kiosk  Bot Bots perform a simple, repetitive task.\nHardware Timer Connector The Hardware Timer Connector will receive timing signals from your club\u0026rsquo;s dedicated timing hardware and forward them to the Core Service, which will then attach them to the appropriate run automatically.\nOther Bots Possibilities abound for bots to perform simple, repetitive tasks involving the Core Service.\n Barcode Scanner Start/Finish Photo Capture  Graph graph LR; subgraph Backend CS[Core Service] end subgraph UI OUI[Operator] --- CS IRUI[Instant Results] --- CS RKUI[Registration Kiosk] --- CS SKUI[Standings Kiosk] --- CS end subgraph Bots HTCB[Hardware Timer Connector] --- CS BCSB[Barcode Scanner] --- CS SFPCB[Start/Finish Photo Capture] --- CS end  "
+},
+{
+	"uri": "https://caeos.github.io/about/faq/",
+	"title": "FAQ",
+	"tags": [],
+	"description": "Frequently Asked Questions",
+	"content": " Questions What\u0026rsquo;s CAEOS? I thought this project was named Coner? CAEOS stands for \u0026ldquo;Coner is Autocross Event Operations Software\u0026rdquo;.\nThere was already a user with the name Coner on GitHub, so an alternative was necessary. This will do!\nWhen can I run my autocross with Coner? Coner is a labor of love by its lead developer, but it does not pay his bills, nor does he wish that it would. It will be ready when it\u0026rsquo;s ready.\nPerhaps you could help it along by contributing?\nWhat\u0026rsquo;s a Handicap Group and a Competition Group? These are abstractions for what a popular autocross sanctioning body whose acronym starts with S and ends with A might call a Class or a Category, respectively. Coner is not affiliated with any sanctioning body, so it seemed unwise to bake their terminology into our data structures.\n"
+},
+{
+	"uri": "https://caeos.github.io/about/contributing/",
+	"title": "Contributing",
+	"tags": [],
+	"description": "Want to help?",
+	"content": "Coner is a free, open source software project built by people who want to use it. We would love to have your help!\n Software development  Features Bug fixes Technical improvements Code review  Testing  Bug reports User experience feedback  Documentation  If you want to help out, please get in touch!\n"
+},
+{
+	"uri": "https://caeos.github.io/about/credits/",
+	"title": "Credits",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://caeos.github.io/about/",
+	"title": "About",
+	"tags": [],
+	"description": "",
+	"content": "  FAQ  Frequently Asked Questions\n Contributing  Want to help?\n Credits  \n "
+},
+{
+	"uri": "https://caeos.github.io/",
+	"title": "Home",
+	"tags": [],
+	"description": "",
+	"content": " Home Coner is autocross event operations software.\nIt\u0026rsquo;s a small ecosystem of free, open source programs that work in concert to help an autocross club run its events.\n"
+},
+{
+	"uri": "https://caeos.github.io/_header/",
+	"title": "_header",
+	"tags": [],
+	"description": "",
+	"content": " Autocross Event Operations Software\n"
+},
+{
+	"uri": "https://caeos.github.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://caeos.github.io/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

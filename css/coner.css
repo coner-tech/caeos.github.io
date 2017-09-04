@@ -1,0 +1,22 @@
+ol#credits-list {
+  list-style:  none;
+  padding: 0;
+}
+
+ol#credits-list li {
+  text-align: center;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  border-style: none;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  display: inline-block;
+}
+
+ol#credits-list li img {
+  margin: 0;
+  width: 200px;
+  height: 150px;
+  object-fit: scale-down;
+  display: block;
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Coner</title>
+    <link>https://caeos.github.io/</link>
+    <description>Recent content in Home on Coner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jul 2017 13:48:46 -0400</lastBuildDate>
+    
+	<atom:link href="https://caeos.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://caeos.github.io/about/faq/</link>
+      <pubDate>Sun, 30 Jul 2017 09:19:23 -0400</pubDate>
+      
+      <guid>https://caeos.github.io/about/faq/</guid>
+      <description>Questions What&amp;rsquo;s CAEOS? I thought this project was named Coner? CAEOS stands for &amp;ldquo;Coner is Autocross Event Operations Software&amp;rdquo;.
+There was already a user with the name Coner on GitHub, so an alternative was necessary. This will do!
+When can I run my autocross with Coner? Coner is a labor of love by its lead developer, but it does not pay his bills, nor does he wish that it would.</description>
+    </item>
+    
+    <item>
+      <title>Contributing</title>
+      <link>https://caeos.github.io/about/contributing/</link>
+      <pubDate>Sun, 30 Jul 2017 14:59:30 -0400</pubDate>
+      
+      <guid>https://caeos.github.io/about/contributing/</guid>
+      <description>Coner is a free, open source software project built by people who want to use it. We would love to have your help!
+ Software development  Features Bug fixes Technical improvements Code review  Testing  Bug reports User experience feedback  Documentation  If you want to help out, please get in touch!</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>https://caeos.github.io/about/credits/</link>
+      <pubDate>Tue, 01 Aug 2017 21:31:45 -0400</pubDate>
+      
+      <guid>https://caeos.github.io/about/credits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>_header</title>
+      <link>https://caeos.github.io/_header/</link>
+      <pubDate>Sat, 29 Jul 2017 13:19:22 -0400</pubDate>
+      
+      <guid>https://caeos.github.io/_header/</guid>
+      <description>Autocross Event Operations Software</description>
+    </item>
+    
+  </channel>
+</rss>
