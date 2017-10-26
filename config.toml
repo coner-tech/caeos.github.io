@@ -7,6 +7,7 @@ theme = "docdock"
   home = ["HTML", "RSS", "JSON"]
 
 [params]
+  themeStyle = "original"
   themeVariant = "coner"
   noSearch = true
   noHomeIcon = true
